@@ -25,7 +25,7 @@ export function InputRoot(props: InterfaceInputRoot) {
 export function InputIcon({icon}: InterfaceInputIcon) {
 
     return (
-        <Slot className="w-6 h-6 text-gray-900">
+        <Slot className="w-6 h-6 text-gray-900 focus-within:text-cyan-500">
             {icon}
         </Slot>
     )

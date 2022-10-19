@@ -6,9 +6,10 @@ export interface InterfaceTitle {
     children: ReactNode;
     size?: "sm" | "md" | "lg";
     asChild?: boolean;
+    className?:string;
 }
 
-export function Title({ children, asChild, size = 'md' }: InterfaceTitle) {
+export function Title({ children, asChild, className, size = 'md' }: InterfaceTitle) {
     const Comp = asChild ? Slot : "h2"
     return (
         <Comp className={
@@ -17,7 +18,8 @@ export function Title({ children, asChild, size = 'md' }: InterfaceTitle) {
                     "text-lg": size === "sm",
                     "text-xl": size === "md",
                     "text-2xl": size === "lg",
-                }
+                },
+                className
             )}
         >
             {children}

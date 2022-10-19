@@ -1,6 +1,6 @@
 import { Meta, StoryObj } from "@storybook/react"
 import { Text } from "../Text/Text";
-import { Checkbox, InterfaceCheckbox } from "./checkbox";
+import { Checkbox, InterfaceCheckbox } from "./Checkbox";
 
 export default {
     title: "Components/Checkbox",
