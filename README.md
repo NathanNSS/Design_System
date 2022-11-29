@@ -20,8 +20,10 @@ Este Design System foi construído com [Figma](https://www.figma.com) e document
 ##  🔗 Links
 ||
 | ---|
-| <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/263385/199832481-bbbf5961-6a26-481d-8224-51258cce9b33.png" width="60px"> <img src="https://user-images.githubusercontent.com/321738/63501763-88dbf600-c4cc-11e9-96cd-94adadc2fd72.png" width="60px"></img> [ Design System (Figma)](https://www.figma.com/file/mx29SLNzICpdCo3elerLJz/Ignite-Lab-10%2F22?node-id=1%3A2&t=CZFHoNTvCEyd48hf-1) |
-|<img src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" width="20px"></img>[ Documentação StoryBook](https://NathanNSS.github.io/Design_System/) |
+| <img src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" width="15px"></img> <a href="https://www.figma.com/file/mx29SLNzICpdCo3elerLJz/Ignite-Lab-10%2F22?node-id=1%3A2&t=CZFHoNTvCEyd48hf-1" target="_blank">Design System (Figma)</a> |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/263385/199832481-bbbf5961-6a26-481d-8224-51258cce9b33.png" width="60px"><img src="https://user-images.githubusercontent.com/321738/63501763-88dbf600-c4cc-11e9-96cd-94adadc2fd72.png" alt="Storybook" width="60px" /></picture> <a href="https://NathanNSS.github.io/Design_System/" target="_blank">Documentação StoryBook</a> |
+
+
 
 ## ✨ Tecnologias
 
